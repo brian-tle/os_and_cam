@@ -1,1 +1,0 @@
-===== System Information =====System: DarwinNode Name: Sohne.localRelease: 17.7.0Version: Darwin Kernel Version 17.7.0: Sun Jun  2 20:31:42 PDT 2019; root:xnu-4570.71.46~1/RELEASE_X86_64Machine: x86_64Processor: i386===== Boot Time =====Boot Time: 2020/2/11 14:38:56===== CPU Info =====
