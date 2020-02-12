@@ -1,2 +1,4 @@
 **/.DS_Store
-
+/inconspicuous_folder
+**/.txt
+__pycache__/
